@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Teste_F360/1.0.0": {
+        "runtime": {
+          "Teste_F360.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teste_F360/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\bin\Debug\net5.0\Teste_F360.exe
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\bin\Debug\net5.0\Teste_F360.deps.json
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\bin\Debug\net5.0\Teste_F360.runtimeconfig.json
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\bin\Debug\net5.0\Teste_F360.runtimeconfig.dev.json
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\bin\Debug\net5.0\Teste_F360.dll
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\bin\Debug\net5.0\ref\Teste_F360.dll
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\bin\Debug\net5.0\Teste_F360.pdb
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\obj\Debug\net5.0\Teste_F360.csproj.AssemblyReference.cache
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\obj\Debug\net5.0\Teste_F360.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\obj\Debug\net5.0\Teste_F360.AssemblyInfoInputs.cache
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\obj\Debug\net5.0\Teste_F360.AssemblyInfo.cs
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\obj\Debug\net5.0\Teste_F360.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\obj\Debug\net5.0\Teste_F360.dll
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\obj\Debug\net5.0\ref\Teste_F360.dll
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\obj\Debug\net5.0\Teste_F360.pdb
+C:\Users\Diego\Projects\Teste_F360\Teste_F360\obj\Debug\net5.0\Teste_F360.genruntimeconfig.cache
